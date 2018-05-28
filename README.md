@@ -43,5 +43,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Write Great Code - Volume 2 - Thinking Low-Level, Writing High-Level [[Download]](/book/Write%20Great%20Code%20-%20Volume%202%20-%20Thinking%20Low-Level%2C%20Writing%20High-Level.pdf)
 * Write Portable Code - An Introduction to Developing Software for Multiple Platforms [[Download]](/book/Write%20Portable%20Code%20-%20An%20Introduction%20to%20Developing%20Software%20for%20Multiple%20Platforms.pdf)
 * Write Solid Code [[Download]](/book/Write%20Solid%20Code.pdf)
-* 人月神话 [[Download]](/book/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.pdf)
 
